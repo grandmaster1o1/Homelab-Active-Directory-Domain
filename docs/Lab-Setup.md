@@ -11,7 +11,7 @@ Subnet - 192.168.1.0/24
 ## Virtual Machines
 
 DC01
-- Windows Server 2022
+- Windows Server 2025
 - Domain Controller
 - DNS Server
 
