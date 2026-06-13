@@ -2,13 +2,13 @@
 
 ## Server Information
 
-Hostname - DC01
+Hostname - WIN-EU7EV3ILUMO
 
 Operating System - Windows Server 2025
 
 Roles Installed
-- Active Directory Domain Services
 - DNS Server
+- Active Directory Domain Services
 
 IP Address - 192.168.1.10
 
