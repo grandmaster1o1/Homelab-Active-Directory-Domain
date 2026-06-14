@@ -26,3 +26,7 @@ User claims they forgot their password after a long vacation and needs an immedi
 - Users on extended leave often face password expiration issues
 - Temporary passwords should be communicated securely
 - Users should change temporary passwords immediately upon login
+
+- ## Evidence
+
+![Password Reset](../../screenshots/Password-Reset/Password-Reset.png)
