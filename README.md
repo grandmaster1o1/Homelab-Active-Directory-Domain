@@ -9,7 +9,6 @@ The lab simulates common help desk responsibilities including:
 - Delegating Control to Users
 - Resetting User Passwords
 - Disabling and Enabling User Accounts
-- Creating and Mapping shared Network Drives with NTFS
 - Setting up Group Policies for Password Complexity
 - DNS troubleshooting
 - Ticket-style problem solving
