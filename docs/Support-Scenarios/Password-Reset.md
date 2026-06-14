@@ -27,7 +27,7 @@ User claims they forgot their password after a long vacation and needs an immedi
 - Temporary passwords should be communicated securely
 - Users should change temporary passwords immediately upon login
 
-![Password Reset](/docs/Screenshots/Support/Password-Reset/Password-Reset.png)
+![Password Reset](docs/Screenshots/Support/Password-Reset/Password-Reset.png)
 
 
 - ## Evidence
