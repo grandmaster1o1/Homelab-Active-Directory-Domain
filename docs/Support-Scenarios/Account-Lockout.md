@@ -24,3 +24,4 @@ User account locked after multiple failed login attempts.
 - Active Directory
 - Security Policy Management
 - User Support
+![Account Lockout](/docs/Screenshots/Support/Account-Lockout/Account-Lockout.png)
