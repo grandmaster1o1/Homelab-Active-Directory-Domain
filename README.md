@@ -15,3 +15,16 @@ The lab simulates common help desk responsibilities including:
 - Ticket-style problem solving
 
 The objective is to replicate real-world service desk and desktop support tasks commonly performed in enterprise environments.
+
+## Skills Demonstrated
+
+- Active Directory Administration
+- Windows Server 2025
+- User Account Management
+- Password Reset Procedures
+- Group Policy Management
+- DNS Troubleshooting
+- Domain Workstation Deployment
+- Windows 10/11 Support
+- PowerShell Fundamentals
+- IT Incident Troubleshooting
