@@ -32,5 +32,5 @@ User claims they forgot their password after a long vacation and needs an immedi
 
 - ## Evidence
 
-![Password Reset.md](../../Screenshots/Support/Password-Reset/Password-Reset.png)
+docs/Screenshots/Support/Password-Reset/Password-Reset.png
 
