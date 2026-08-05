@@ -18,7 +18,7 @@ The objective is to replicate real-world service desk and desktop support tasks 
 ## Skills Demonstrated
 
 - Active Directory Administration
-- Windows Server 2025
+- Windows Server 2022
 - User Account Management
 - Password Reset Procedures
 - Group Policy Management
