@@ -4,7 +4,7 @@
 
 Hostname - WIN-EU7EV3ILUMO
 
-Operating System - Windows Server 2025
+Operating System - Windows Server 2022
 
 Roles Installed
 - DNS Server
